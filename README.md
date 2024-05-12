@@ -2,7 +2,7 @@
 #### I am a Web and Software Developer
 ![I am a Web and Software Developer](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fih809fphbnslllg4rfnh.JPG)
 
-I am a Web Developer with extensive experience for over 5 years. My experties is to create and Website design, graphic design, content writting, Software Developing and many more. I design webpage including database and develop full website for personal or an organization like e-commerce or blog. I can develop both dynamic and static webpage. I can write or create content for the webpage or full website. Besides I can develop Software for a company to operate their daily task and activity. I do the graphics things. I can design a logo or banner for you.
+I am a Web Developer with extensive experience for over 5 years. My expertise is in creating and Website design, Web Application development, Software development, and many more. I design webpage including databases and develop full websites for personal or an organization like e-commerce or blog. I can develop both dynamic and static web pages. I can write or create content for the webpage or full website. Besides I can develop Software for a company to operate their daily task and activity. I do the graphics things. I can design a logo or banner for you.
 
 Skills: React / PHP/ Laravel / JavaScript / HTML / CSS / MySQL / Python / Python Library / Machine Learning With Python
 
