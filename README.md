@@ -1,6 +1,6 @@
 ### Hi There 👋, I am NI Tushar
 #### I am a Web and Software Developer
-![I am a Web and Software Developer](https://en.idei.club/uploads/posts/2023-06/1685947597_en-idei-club-p-dark-room-computer-dizain-1.jpg)
+![I am a Web and Software Developer](https://www.shutterstock.com/image-illustration/close-man-hand-typing-keyboard-600nw-2279008239.jpg)
 
 I am a Web Developer with extensive experience for over 5 years. My expertise is in creating and Website design, Web Application development, Software development, and many more. I design webpage including databases and develop full websites for personal or an organization like e-commerce or blog. I can develop both dynamic and static web pages. I can write or create content for the webpage or full website. Besides I can develop Software for a company to operate their daily task and activity. I do the graphics things. I can design a logo or banner for you.
 
